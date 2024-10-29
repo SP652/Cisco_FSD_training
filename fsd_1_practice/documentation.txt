@@ -1,0 +1,12 @@
+This is a documentation that covers the practical implementation of the Phase 1 training of Full Stack Development.
+It Incorporates the Frontend concepts.
+The followng topics are covered in this :
+    1. Agile
+    2. GIT
+    3. MySQL
+    4. HTML
+    5. CSS
+    6. Javascript
+    7. React
+    8. Angular
+    9. Cucumber
